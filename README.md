@@ -33,7 +33,7 @@ Experienced Full Stack Developer and Graphic Designer with a comprehensive skill
 
 ## 🌱 Currently Learning
 
-I'm always eager to learn and stay up-to-date with the latest technologies. Currently, I am exploring [Technology/Framework].
+I'm always eager to learn and stay up-to-date with the latest technologies. Currently, I am exploring node JS.
 
 ## 💬 Let's Chat!
 
